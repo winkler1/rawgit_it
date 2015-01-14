@@ -23,7 +23,7 @@ javascript:(function(){ var sections=location.pathname.split("/");sections[0]="h
 ```
 
 #### Installation
-Github, very sensibly, won't allow javascript: urls. If you're reading this, you know what to do.
+Github, very sensibly, won't allow javascript: urls. Sorry, but if you're reading this, you probably know what to do.
 
 #### Known Issues:
 * blindly appends /index.html, without checking for presence.
